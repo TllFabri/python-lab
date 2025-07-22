@@ -9,7 +9,7 @@ This repository contains my journey of learning and practicing the Python langua
 - Develop practical projects and solve challenges
 - Create a solid foundation for back-end, automation, data analysis, and software development
 
-# Time
+# Team
 
  | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/202474042?s=400&u=a642f24f6cd43cb635e42bd9a9c57a9099ffb54a&v=4" width=115><br><sub> Thiago Fabri </sub>](https://github.com/TllFabri) |   |
 | :---: | :---: |
