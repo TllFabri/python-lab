@@ -1,5 +1,5 @@
-nome = 'Luiz Otávio'
-sobrenome = 'Miranda'
+nome = 'Thiago'
+sobrenome = 'Fabri'
 idade = 18
 ano_nascimento = 2022 - idade
 maior_de_idade = idade >= 18
