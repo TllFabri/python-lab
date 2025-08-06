@@ -11,5 +11,5 @@ This repository contains my journey of learning and practicing the Python langua
 
 # Team
 
- | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/222240928?v=4" width=115><br><sub> Thiago Fabri </sub>](https://github.com/TllFabri) |   |
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/222240928?v=4" width="115"><br><sub>Thiago Fabri</sub>](https://github.com/TllFabri) |
+| :---: |
