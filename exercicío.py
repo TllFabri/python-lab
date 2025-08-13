@@ -13,3 +13,4 @@ pesa 70 quilos e seu imc é
 22.34351559258195
 """
 
+print(type(...))
