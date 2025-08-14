@@ -11,3 +11,7 @@ linha_3 = f'{imc:.2f}'
 print(linha_1)
 print(linha_2)
 print(linha_3)
+
+from datetime import datetime
+hoje = datetime.now()
+print(f"Hoje é {hoje:%d/%m/%Y}")
