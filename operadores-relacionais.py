@@ -14,4 +14,5 @@ menor = 1 < 2
 menor_ou_igual = 2 <= 2
 igual = 'a' == 'a'
 diferente = 'a' != 'b'
-print('Olha meu print aqui')
+
+print(maior)
