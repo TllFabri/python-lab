@@ -1,7 +1,6 @@
 def celsius_para_fahrenheit(c):
     return (c * 9/5) + 32
 
-# Programa principal
 try:
     inicio = int(input("Digite a temperatura inicial em °C: "))
     fim = int(input("Digite a temperatura final em °C: "))
